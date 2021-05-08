@@ -3,6 +3,8 @@
 /*This is for branch3*/
 /*This is for branch2*/
 /*This is for new branch*/
+/*This is new__line*/
+>>>>>>> branch2
 import java.util.Scanner;
 
  public class calculator
